@@ -1,7 +1,7 @@
 # RedStoneeePi
 
 ## Introduction
-RedStoneeePi is an ARM development board, with H616 (Quad core ARM Cortex-A53@1.5Ghz, 64-bit) as the main control core. Onboard 4Gb 16bit DDR3, support HDMI 4K display output. Support Fast Ethernet port, onboard wifi6/BT.
+RedStoneeePi is an ARM development board, with H616 (Quad-core ARM Cortex-A53@1.5Ghz) as the main control core. Onboard 4Gb 16bit DDR3, HDMI 4K display output, 2*USB-A 2.0, `EXTREMELY-ADVANCED` 3.5mm audio jack, Fast-Ethernet port, WiFi6/BT.
 
 
 ## Base parameters
@@ -18,7 +18,7 @@ RedStoneeePi is an ARM development board, with H616 (Quad core ARM Cortex-A53@1.
 <td>H616</td>
 </tr>
 <tr>
-<td>CPU processor </td>
+<td>CPU</td>
 <td>ARM Cortex-A53@1.5Ghz
 </tr>
 <tr>
