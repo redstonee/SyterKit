@@ -1,9 +1,7 @@
-# Longan Pi 3H 
+# RedStoneeePi
 
 ## Introduction
-Longan Pi 3H is an ARM Linux development board based on Longan Module 3H core board, with H618 (Quad core ARM Cortex-A53@1.5Ghz, 64-bit) as the main control core. Onboard maximum 4GB 64bit LPDDR4, support HDMI 4K display output. Support Gigabit network port, onboard wifi6/BT.
-
-![image](https://github.com/YuzukiHD/SyterKit/assets/12003087/00e66a0f-f671-4d79-bf68-acabed8c4ddc)
+RedStoneeePi is an ARM development board, with H616 (Quad core ARM Cortex-A53@1.5Ghz, 64-bit) as the main control core. Onboard 4Gb 16bit DDR3, support HDMI 4K display output. Support Fast Ethernet port, onboard wifi6/BT.
 
 
 ## Base parameters
@@ -17,11 +15,11 @@ Longan Pi 3H is an ARM Linux development board based on Longan Module 3H core bo
 <tbody>
 <tr>
 <td> Main control chip </td>
-<td>H618</td>
+<td>H616</td>
 </tr>
 <tr>
 <td>CPU processor </td>
-<td>ARM Cortex-A53@1.5Ghz <br>· 32 KB L1 I-cache + 32 KB L1 D-cache <br>· 1MB L2 Cache shared by four cores </td>
+<td>ARM Cortex-A53@1.5Ghz
 </tr>
 <tr>
 <td> Graphics Processor </td>
@@ -40,15 +38,15 @@ Longan Pi 3H is an ARM Linux development board based on Longan Module 3H core bo
 </tr>
 <tr>
 <td>RAM</td>
-<td>· 1/2/4 GB 64bits LPDDR4<br></td>
+<td>· 4 Gb 16bits DDR3<br></td>
 </tr>
 <tr>
 <td> Storage </td>
-<td>· eMMC: Optional blank sticker, 32G<br>· TF card </td>
+<td>· eMMC: Optional<br>· MicroSD card </td>
 </tr>
 <tr>
 <td> Ethernet </td>
-<td>· Gigabit Ethernet interface </td>
+<td>· Fast Ethernet interface </td>
 </tr>
 <tr>
 <td>USB</td>
@@ -60,11 +58,9 @@ Longan Pi 3H is an ARM Linux development board based on Longan Module 3H core bo
 </tr>
 <tr>
 <td>GPIO</td>
-<td>· UART<br>· IIC<br>· SPI</td>
+<td>· 2 × UART<br>· 1 × SPI</td>
 </tr>
 </tbody>
 </table>
 
-### Hardware data download
 
-[LonganPi3H hardware information] (https://dl.sipeed.com/shareURL/LONGAN/LonganPi3H)
