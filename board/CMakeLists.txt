@@ -1,3 +1,3 @@
-if(CONFIG_BOARD_REDSTONEEE_PI)
-    add_subdirectory(redstoneee-pi)
+if(CONFIG_BOARD_REDSTONEEEPI)
+    add_subdirectory(redstoneeepi)
 endif()

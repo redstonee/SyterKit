@@ -9,7 +9,7 @@ This branch is only for RedStoneeePi.
 
 | Board | Manufacturer | Platform | Spec  | Details | Config |
 | ----- | ------------ | -------- | ----- | ------- | -------|
-| RedStoneee-Pi | Hand   | H616     | Quad-Core Cortex A53 | [board/redstoneee-pi](board/redstoneee-pi) | `redstoneee-pi.cmake` |
+| RedStoneeePi | Hand   | H616     | Quad-Core Cortex A53 | [board/redstoneee-pi](board/redstoneee-pi) | `redstoneee-pi.cmake` |
 
 # Getting Started
 
